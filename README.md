@@ -33,10 +33,5 @@ This repository contains the code I am learning and developing as part of the No
    npm start
    ```
 
-5. Run the frontend React app:
-   ```bash
-   npm start
-   ```
-
 ## License
 This project is for learning purposes as part of the Node.js and Express course.

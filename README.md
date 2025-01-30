@@ -22,19 +22,13 @@ This repository contains the code I am learning and developing as part of the No
    git clone https://github.com/shawaiz-khan/node-express-course.git
    ```
 
-2. Install backend dependencies:
+2. Install dependencies:
    ```bash
-   cd backend
+   cd node-express-course
    npm install
    ```
 
-3. Install frontend dependencies:
-   ```bash
-   cd frontend
-   npm install
-   ```
-
-4. Run the backend server:
+3. Run the server:
    ```bash
    npm start
    ```

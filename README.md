@@ -34,4 +34,4 @@ This repository contains the code I am learning and developing as part of the No
    ```
 
 ## License
-This project is for learning purposes as part of the Node.js and Express course.
+This project is for learning purposes as part of the Node.js and Express course under the [MIT License](LICENSE).
